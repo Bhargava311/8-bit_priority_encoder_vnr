@@ -13,7 +13,7 @@ as compared to FET,BJT.Encoders are good at compressing data. However,
 the problem with binary encoders is that if more than one of the input bits is
 high, then it produces an error at the output. Whereas priority encoders were
 made to overcome this issue. It gives an output by considering only the highest
-priority bit.
+priority bit.We use eSim,skywater 130 pdk open source for implementation.
 
 
 
