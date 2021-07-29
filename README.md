@@ -2,6 +2,7 @@
 Initial Report_SSCS Contest
 
 Abstract:-
+
 A priority encoder is a circuit that compresses multiple binary(2*n) inputs into a
 smaller number of (n) outputs based on priority.If two or more inputs are high
 at the same time, the input having the highest priority will take precedence.It
@@ -27,4 +28,5 @@ Reference output:-
 Reference circuit details:-
 
 A priority encoder is a digital circuit that compresses multiple binary inputs into smaller number of outputs. The output of the priority encoder is the binary representation of the decimal number starting from zero of the most significant input bit. In this IC design, priority encoder consists of (2^3)8-bits(0,1,2,3,4,5,6,7) as input and gives maximum 3-bits as output(ex:- for "1" it gives 00000001).
+
 
