@@ -15,6 +15,7 @@ made to overcome this issue. It gives an output by considering only the highest
 priority bit.
 
 
+
 Circuit Diagram:-
 
 ![WhatsApp Image 2021-07-26 at 10 56 57 AM](https://user-images.githubusercontent.com/86703317/127509339-cec7260d-f154-4f6f-9c7d-b0932b12fb46.jpeg)
