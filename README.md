@@ -24,3 +24,7 @@ Reference output:-
 
 ![WhatsApp Image 2021-07-29 at 6 54 15 PM](https://user-images.githubusercontent.com/86703317/127511038-e0ebb855-df96-4737-aadd-74c0b6d1e4d5.jpeg)
 
+Reference circuit details:-
+
+A priority encoder is a digital circuit that compresses multiple binary inputs(2^n) into smaller(n) number of outputs.The output of the priority encoder is the binary representation of the decimal number starting from zero of the most significant input bit. In this IC design, priority encoder consists of (2^3)8-bits(0,1,2,3,4,5,6,7) as input and gives maximum 3-bits as output(ex:- for "1" it gives 00000001).
+
