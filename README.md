@@ -1,5 +1,5 @@
 # 8-bit_priority_encoder_vnr
-Initial Report
+Initial Report_SSCS Contest
 
 Abstract:-
 A priority encoder is a circuit that compresses multiple binary(2n) inputs into a
