@@ -32,3 +32,14 @@ Reference links:-
 2.https://www.semanticscholar.org/paper/High-speed-and-low-power-CMOS-priority-encoders-Wang-Huang/af92a8c39bdb4d608b52c58632badac30d93b9b3
 
 3.https://www.researchgate.net/profile/Yukang-Feng/publication/325592310_Analysis_and_Design_of_8-Bit_CMOS_Priority_Encoders/links/5b7969eba6fdcc5f8b5487ac/Analysis-and-Design-of-8-Bit-CMOS-Priority-Encoders.pdf?origin=publication_detail
+
+
+Team Members:-
+
+UPPALA BHARGAVA SAI
+
+RUDRANGI MANJUNATH
+
+PEDDAVONTARI SURAJ REDDY
+
+MADHAVAM SAI KAIVALYA
