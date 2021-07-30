@@ -28,5 +28,6 @@ Reference output:-
 Reference links:-
 
 1.https://www.electronics-tutorials.ws/combination/comb_4.html
+2.https://www.semanticscholar.org/paper/High-speed-and-low-power-CMOS-priority-encoders-Wang-Huang/af92a8c39bdb4d608b52c58632badac30d93b9b3
 
 
